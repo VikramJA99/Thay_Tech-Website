@@ -1,7 +1,28 @@
-Data: 19/08/2022
+
+Data: 20/08/2024
+Day: tuesday 
+
+Software Development:
+ -working on content on service page and view at Cloud Support and Development
+
+## Referent ##
+https://www.infosys.com/
+https://www.techmahindra.com/
+https://www.zoho.com/
+
+
+
+
+
+---------------------------------------------------------------------------------------
+
+
+Data: 19/08/2024
 Day: Monday
 
 Software Development:
-working on content on service page and view at Cloud Support and Development
+ -working on content on service page and view at Cloud Support and Development
 
+## Referent ##
 https://www.infosys.com/
+https://www.techmahindra.com/
