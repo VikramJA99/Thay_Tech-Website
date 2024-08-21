@@ -1,4 +1,4 @@
-Data: 20/08/2024
+Data: 21/08/2024
 Day: wednesday
 
 Software Development:
@@ -11,12 +11,7 @@ https://filestage.io/blog/website-content/
 https://www.msystechnologies.com/#
 https://www.future-processing.com/services/cloud/
 https://rightinformation.com/services/software-development/#Services
-
-
-
-
-
-
+https://htssindia.in/
 
 --------------------------------------------------------------------------------------
 
