@@ -1,3 +1,24 @@
+Data: 20/08/2024
+Day: wednesday
+
+Software Development:
+ -working on content on service page and view at Development
+ - Software Development
+ - Product Development
+
+## Reference ##
+https://filestage.io/blog/website-content/
+https://www.msystechnologies.com/#
+https://www.future-processing.com/services/cloud/
+https://rightinformation.com/services/software-development/#Services
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------------
 
 Data: 20/08/2024
 Day: tuesday 
@@ -5,14 +26,10 @@ Day: tuesday
 Software Development:
  -working on content on service page and view at Cloud Support and Development
 
-## Referent ##
+## Reference ##
 https://www.infosys.com/
 https://www.techmahindra.com/
 https://www.zoho.com/
-
-
-
-
 
 ---------------------------------------------------------------------------------------
 
@@ -23,6 +40,6 @@ Day: Monday
 Software Development:
  -working on content on service page and view at Cloud Support and Development
 
-## Referent ##
+## Reference ##
 https://www.infosys.com/
 https://www.techmahindra.com/
