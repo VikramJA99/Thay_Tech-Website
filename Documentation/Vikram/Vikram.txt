@@ -1,3 +1,20 @@
+Data: 22/08/2024
+Day: Thursday
+
+content:
+ - working on content on service page
+ - Cloud Support
+ - Application Support
+
+## Reference ##
+https://filestage.io/blog/website-content/
+https://www.msystechnologies.com/#
+https://www.future-processing.com/services/cloud/
+https://rightinformation.com/services/software-development/#Services
+https://htssindia.in/ 
+
+--------------------------------------------------------------------------------------
+
 Data: 21/08/2024
 Day: wednesday
 
