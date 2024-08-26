@@ -9,16 +9,13 @@ import { LiaGripfire } from "react-icons/lia";
 
 const navigation = [
   { name: "Home", href: "/*", current: true },
-  { name: "Database Support", href: "/DatabaseSupport", current: false },
-  { name: "OS Support", href: "/OSSupport", current: false },
-  { name: "Network Support", href: "/NetworkSupport", current: false },
-  { name: "Application Support", href: "/ApplicationSupport", current: false },
-  { name: "StaffOutsourcing", href: "/StaffOutsourcing", current: false },
-
-  { name: "Service", href: "/DatabaseSupport", current: false },
-
-  { name: "Industry", href: "#", current: false },
-  { name: "Technology", href: "#", current: false },
+  { name: "Software Development", href: "/ProductDevelopment", current: false },
+  {
+    name: "Online Offline Training",
+    href: "/OnlineOfflineTraining",
+    current: false,
+  },
+  { name: "ContactUs", href: "/ContactUs", current: false },
   { name: "Clients", href: "#", current: false },
   { name: "About Us", href: "#", current: false },
 ];

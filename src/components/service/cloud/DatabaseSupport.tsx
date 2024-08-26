@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./CloudSupport.css";
+import "../Service.css";
 
 const DatabaseSupport: React.FC = () => {
   useEffect(() => {
@@ -34,16 +34,12 @@ const DatabaseSupport: React.FC = () => {
               <b>Database Support</b>
             </h1>
             <p>
-              Mastering the Complexity of Cloud Databases for Business Success.
-              <br /> Data is the lifeblood of modern business, and managing it
-              effectively in the cloud is essential. Thay Technologies offers a
-              full spectrum of Database Support services designed to help you
-              harness the power of your data in the cloud.
+              Safeguard and enhance your data with expert database solutions
             </p>
           </div>
           <div className="flex-1 text-right">
             <img
-              src="public/Cloud_support/Database_support/Database_support.svg"
+              src="public/cloud_support/Database_support/Database_support.svg"
               alt="Head Software Development"
               className="animate-right-to-left"
             />
@@ -87,13 +83,13 @@ const DatabaseSupport: React.FC = () => {
             </p>
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/Database_support/Servers.jpg" />
+            <img src="public/cloud_support/Database_support/Data-img1.jpg" />
           </div>
         </div>
         <div className="reverse-content">
           <div className="content-box flex fade-in-section">
             <div className="img p-10">
-              <img src="public/Cloud_support/Database_support/Cloud.jpg" />
+              <img src="public/cloud_support/Database_support/Data-img2.jpg" />
             </div>
             <div className="content p-10">
               <h3 className="text-gray-600 pb-3 text-xl">
@@ -167,7 +163,7 @@ const DatabaseSupport: React.FC = () => {
           </div>
           <div className="img p-10">
             <img
-              src="public/Cloud_support/Database_support/pexels-brett-sayles-4508751.jpg"
+              src="public/cloud_support/Database_support/Data-img3.jpg"
               alt="Marketing"
             />
           </div>

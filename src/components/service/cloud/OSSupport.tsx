@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./CloudSupport.css";
+import "../Service.css";
 
 const OSSupport: React.FC = () => {
   useEffect(() => {
@@ -33,17 +33,11 @@ const OSSupport: React.FC = () => {
             <h1 className="font-bold">
               <b>Operating System Support</b>
             </h1>
-            <p>
-              Mastering the Complexity of Cloud Databases for Business Success.
-              <br /> Data is the lifeblood of modern business, and managing it
-              effectively in the cloud is essential. Thay Technologies offers a
-              full spectrum of Database Support services designed to help you
-              harness the power of your data in the cloud.
-            </p>
+            <p>Ensure smooth operations with reliable OS assistance</p>
           </div>
           <div className="flex-1 text-right">
             <img
-              src="public/Cloud_support/os_support/OS-support.svg"
+              src="public/cloud_support/os_support/OS-support.svg"
               alt="Head Software Development"
               className="animate-right-to-left"
             />
@@ -87,13 +81,13 @@ const OSSupport: React.FC = () => {
             </p>
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/os_support/img1.jpg" />
+            <img src="public/cloud_support/os_support/Os-img1.jpg" />
           </div>
         </div>
         <div className="reverse-content">
           <div className="content-box flex fade-in-section">
             <div className="img p-10">
-              <img src="public/Cloud_support/os_support/img2.jpg" />
+              <img src="public/cloud_support/os_support/Os-img2.jpg" />
             </div>
             <div className="content p-10">
               <h3 className="text-gray-600 pb-3 text-xl">
@@ -160,7 +154,7 @@ const OSSupport: React.FC = () => {
             <br />
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/os_support/img3.jpg" />
+            <img src="public/cloud_support/os_support/Os-img3.jpg" />
           </div>
         </div>
       </div>

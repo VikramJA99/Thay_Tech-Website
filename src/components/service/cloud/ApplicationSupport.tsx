@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./CloudSupport.css";
+import "../Service.css";
 
 const ApplicationSupport: React.FC = () => {
   useEffect(() => {
@@ -33,19 +33,11 @@ const ApplicationSupport: React.FC = () => {
             <h1 className="font-bold">
               <b>Application Support</b>
             </h1>
-            <p>
-              Empowering Your Business with Tailored Cloud Application Solutions{" "}
-              <br />
-              In today’s fast-paced business environment, the ability to quickly
-              adapt and deploy applications in the cloud is critical. At Thay
-              Technologies, we offer comprehensive Application Support services
-              designed to maximize your business’s productivity and efficiency
-              through seamless cloud integration.
-            </p>
+            <p>Optimize performance with proactive application care</p>
           </div>
           <div className="flex-1">
             <img
-              src="public/Cloud_support/Applicationsupport/ApplicationSupport.svg"
+              src="public/cloud_support/application_support/ApplicationSupport.svg"
               className="animate-right-to-left"
             />
           </div>
@@ -86,13 +78,13 @@ const ApplicationSupport: React.FC = () => {
             </p>
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/Applicationsupport/img1.jpg" />
+            <img src="public/cloud_support/application_support/App-img1.jpg" />
           </div>
         </div>
         <div className="reverse-content">
           <div className="content-box flex fade-in-section">
             <div className="img p-10">
-              <img src="public/Cloud_support/Applicationsupport/img2.jpg" />
+              <img src="public/cloud_support/application_support/App-img2.jpg" />
             </div>
             <div className="content p-10">
               <h3 className="text-gray-600 pb-3 text-xl">
@@ -145,7 +137,7 @@ const ApplicationSupport: React.FC = () => {
             <br />
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/Applicationsupport/img3.jpg" />
+            <img src="public/cloud_support/application_support/App-img3.jpg" />
           </div>
         </div>
       </div>

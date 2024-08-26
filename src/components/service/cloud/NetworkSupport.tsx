@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import "./CloudSupport.css";
+import "../Service.css";
 
 const NetworkSupport: React.FC = () => {
   useEffect(() => {
@@ -33,17 +33,11 @@ const NetworkSupport: React.FC = () => {
             <h1 className="font-bold">
               <b>Network Support</b>
             </h1>
-            <p>
-              Building and Maintaining Secure, Scalable Cloud Networks <br /> A
-              strong network is the backbone of any cloud infrastructure. At
-              Thay Technologies, we offer comprehensive Network Support services
-              to help you build and maintain a secure, reliable, and scalable
-              cloud network.
-            </p>
+            <p>Keep your connections seamless with expert network management</p>
           </div>
           <div className="flex-1 text-right">
             <img
-              src="public/Cloud_support/network_support/Networking.svg"
+              src="public/cloud_support/network_support/Networking.svg"
               alt="Head Software Development"
               className="animate-right-to-left"
             />
@@ -88,13 +82,13 @@ const NetworkSupport: React.FC = () => {
             </p>
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/network_support/img1.jpg" />
+            <img src="public/cloud_support/network_support/Net-img1.jpg" />
           </div>
         </div>
         <div className="reverse-content">
           <div className="content-box flex fade-in-section">
             <div className="img p-10">
-              <img src="public/Cloud_support/network_support/img2.jpg" />
+              <img src="public/cloud_support/network_support/Net-img2.jpg" />
             </div>
             <div className="content p-10">
               <h3 className="text-gray-600 pb-3 text-xl">
@@ -147,7 +141,7 @@ const NetworkSupport: React.FC = () => {
             <br />
           </div>
           <div className="img p-10">
-            <img src="public/Cloud_support/network_support/img3.jpg" />
+            <img src="public/cloud_support/network_support/Net-img3.jpg" />
           </div>
         </div>
       </div>
