@@ -1,3 +1,16 @@
+Data: 26/08/2024
+Day: Monday
+
+content:
+ - working on content for the "Contact us" page
+
+## Reference ##
+https://github.com/Kirito-012/Blog-Page
+https://github.com/Kirito-012/agency
+https://github.com/Kirito-012/social-hikers
+https://github.com/aneeshtigga/Event-Website?tab=readme-ov-file
+--------------------------------------------------------------------------------------
+
 Data: 22/08/2024
 Day: Thursday
 
