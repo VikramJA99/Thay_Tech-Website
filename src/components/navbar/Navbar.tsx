@@ -11,11 +11,12 @@ const navigation = [
   { name: "Home", href: "/*", current: true },
   { name: "Software Development", href: "/ProductDevelopment", current: false },
   {
-    name: "Online Offline Training",
-    href: "/OnlineOfflineTraining",
+    name: "Slideshow",
+    href: "/Slideshow",
     current: false,
   },
   { name: "ContactUs", href: "/ContactUs", current: false },
+  { name: "AboutUs", href: "/AboutUs", current: false },
   { name: "Clients", href: "#", current: false },
   { name: "About Us", href: "#", current: false },
 ];

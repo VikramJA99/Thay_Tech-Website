@@ -1,3 +1,29 @@
+Data: 28/08/2024
+Day: wednesday
+
+content:
+ - worked on About Us page and modify the css.
+ 
+
+## Reference ##
+https://github.com/Kirito-012/Blog-Page
+https://github.com/Kirito-012/agency
+
+-----------------------------------------------------------------------------------
+
+Data: 27/08/2024
+Day: Tuesday
+
+content:
+ - worked on contact page and modify the css.
+ 
+
+## Reference ##
+https://github.com/Kirito-012/Blog-Page
+https://github.com/Kirito-012/agency
+
+--------------------------------------------------------------------------------------
+
 Data: 26/08/2024
 Day: Monday
 

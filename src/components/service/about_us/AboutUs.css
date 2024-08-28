@@ -1,0 +1,84 @@
+/*** About Us Start ***/
+.about-us {
+  background-color: #f7f7f7; /* Adjust background color */
+  padding: 50px 0;
+}
+
+.about-us h4 {
+  color: #1d4ed8; /* Blue color for subheading */
+}
+
+.about-us h1 {
+  color: #1f2937; /* Dark gray for main heading */
+  margin-bottom: 20px;
+}
+
+.about-us p {
+  color: #4b5563; /* Medium gray for paragraph text */
+  margin-bottom: 20px;
+}
+
+.about-us .service-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.about-us .service-item .icon {
+  color: #1d4ed8; /* Blue color for icons */
+  font-size: 2rem;
+  margin-right: 15px;
+}
+
+.about-us .service-item .text {
+  max-width: 90%;
+}
+
+.about-us .service-item .text h4 {
+  color: #1f2937; /* Dark gray for titles */
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
+.about-us .service-item .text p {
+  color: #4b5563; /* Medium gray for descriptions */
+  font-size: 1rem;
+}
+
+.about-us .btn-discover {
+  background-color: #1d4ed8; /* Blue background */
+  color: #ffffff; /* White text */
+  padding: 12px 25px;
+  border-radius: 50px;
+  font-weight: bold;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.about-us .btn-discover:hover {
+  background-color: #2563eb; /* Darker blue on hover */
+  color: #e5e7eb; /* Light gray text on hover */
+}
+
+.about-us .contact-info {
+  display: flex;
+  align-items: center;
+}
+
+.about-us .contact-info .contact-icon {
+  color: #1d4ed8; /* Blue color for contact icons */
+  font-size: 1.5rem;
+  margin-right: 10px;
+}
+
+.about-us .contact-info .contact-text h4 {
+  color: #1f2937; /* Dark gray for contact titles */
+  font-size: 1.25rem;
+  margin-bottom: 5px;
+}
+
+.about-us .contact-info .contact-text p {
+  color: #4b5563; /* Medium gray for contact details */
+  font-size: 1rem;
+}
+
+/*** About Us End ***/
