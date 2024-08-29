@@ -17,6 +17,8 @@ const navigation = [
   },
   { name: "ContactUs", href: "/ContactUs", current: false },
   { name: "AboutUs", href: "/AboutUs", current: false },
+  { name: "WhyUs", href: "/WhyUs", current: false },
+  { name: "Services", href: "/Services", current: false },
   { name: "Clients", href: "#", current: false },
   { name: "About Us", href: "#", current: false },
 ];

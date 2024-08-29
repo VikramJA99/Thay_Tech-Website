@@ -1,4 +1,21 @@
 Data: 28/08/2024
+Day: Thursday
+
+content:
+ - reworked on About Us page and modify the css.
+ - list about pages
+ -our services
+ -whyUs
+ -AboutUs
+ 
+
+## Reference ##
+https://github.com/Kirito-012/Blog-Page
+https://github.com/Kirito-012/agency
+https://tailwindflex.com/tag/about-us
+-------------------------------------------------------------------------------
+
+Data: 28/08/2024
 Day: wednesday
 
 content:
